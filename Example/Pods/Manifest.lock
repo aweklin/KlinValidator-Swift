@@ -1,0 +1,16 @@
+PODS:
+  - SwiftValidator (0.1.0)
+
+DEPENDENCIES:
+  - SwiftValidator (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftValidator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftValidator: b0c6f7935ec13c6420f9881b610d32437af1094b
+
+PODFILE CHECKSUM: a534c148a56553889fa2daa363147c65fcba5170
+
+COCOAPODS: 1.9.3

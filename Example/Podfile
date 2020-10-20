@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftValidator_Tests' do
+  pod 'SwiftValidator', :path => '../'
+  
+  
+end
